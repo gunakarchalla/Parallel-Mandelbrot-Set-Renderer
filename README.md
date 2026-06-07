@@ -2,6 +2,8 @@
 
 A multithreaded Swing application that computes and displays the Mandelbrot set, reaching almost **3 × speed‑up on four cores**. The project began with the single‑threaded *Mandel3.java* Applet by Rubikscube.info and was refactored into a modern desktop program that distributes the workload across a configurable thread pool.
 
+![Demo of the renderer](./Assets/demo.gif)
+
 ---
 
 ## Table of Contents
